@@ -1,7 +1,7 @@
 ### Hi there, I'm Manish 👋
 
-[<img align="left" alt="manishshettym.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="manishshettym.github.io" width="17px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
@@ -14,9 +14,9 @@
 <br />
 
 ---
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ManishShettyM&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishShettyM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManishShettyM&show_icons=true&include_all_commits=true" alt="Manish's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishShettyM&layout=compact" />
 
 ---
 

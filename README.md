@@ -15,9 +15,9 @@
 
 ---
 
-<img align="left" style="display:flex" src="https://github-readme-stats.vercel.app/api?username=ManishShettyM&show_icons=true&include_all_commits=true" alt="Manish's github stats" />
+<img align="left" style="display:flex; max-width:50%" src="https://github-readme-stats.vercel.app/api?username=ManishShettyM&show_icons=true&include_all_commits=true" alt="Manish's github stats" />
 
-<img align="right" style="display:flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishShettyM&layout=compact" />
+<img align="right" style="display:flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishShettyM" />
 
 ---
 

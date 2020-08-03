@@ -7,7 +7,7 @@
 <br />
 
 - 🔭 I’m currently working on Research in NLP and Software Engineering @[Microsoft Research, India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)
-- 🌱 I’m currently learning everythin about the universe 🤣
+- 🌱 Learning everything about the universe 🤣
 - 🥅 2020 Goals: Complete 2+ research papers
 - ⚡ Fun fact: I love to beatbox & play basketball
 

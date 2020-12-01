@@ -7,8 +7,8 @@
 <br />
 
 - 🔭 I’m currently working on Research in NLP and Software Engineering @[Microsoft Research, India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)
-- 🌱 Learning everything about the universe 🤣
-- 🥅 2020 Goals: Complete 2+ research papers
+- 🌱 Learning to learn to learn to learn ... ♾️
+- 🥅 2020 Goals: Complete 2+ research papers/projects
 - ⚡ Fun fact: I love to beatbox & play basketball
 
 <!-- <img align="left" style="display:flex; max-width:100%" src="https://github-readme-stats.vercel.app/api?username=ManishShettyM&hide_title=true&show_icons=true&hide=contribs&include_all_commits=true" alt="Manish's github stats" /> -->

@@ -10,6 +10,7 @@
 - 🌱 Learning to learn to learn to learn ... ♾️
 - 🥅 2020 Goals: Complete 2+ research papers/projects
 - ⚡ Fun fact: I love to beatbox & play basketball
+- "𝚃𝚘 𝚜𝚝𝚛𝚒𝚟𝚎, 𝚝𝚘 𝚜𝚎𝚎𝚔, 𝚝𝚘 𝚏𝚒𝚗𝚍, 𝚊𝚗𝚍 𝚗𝚘𝚝 𝚝𝚘 𝚢𝚒𝚎𝚕𝚍"
 
 <!-- <img align="left" style="display:flex; max-width:100%" src="https://github-readme-stats.vercel.app/api?username=ManishShettyM&hide_title=true&show_icons=true&hide=contribs&include_all_commits=true" alt="Manish's github stats" /> -->
 

@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Manish</h1>
-<h3 align="center"> Research Fellow, Microsoft Research</h3>
+<h1 align="center" style="margin:0px">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Manish</h1>
+<h5 align="center"> Research Fellow, Microsoft Research</h5>
 <p align="center">
   <img alt="manishshettym.github.io" width="17px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
   <img alt="codeSTACKr | LinkedIn" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

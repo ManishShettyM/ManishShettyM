@@ -6,10 +6,9 @@
   <a href="https://twitter.com/manishshettym"> <img alt="Twitter" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" /> </a>
   <a href="https://open.spotify.com/user/llkymb8x41n0iiuer3jgl4o6v"> <img alt="Spotify" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" /> </a>
 </p>
-
-- 🔭 𝚁𝚎𝚜𝚎𝚊𝚛𝚌𝚑 𝚒𝚗 𝙽𝙻𝙿, 𝙼𝙻, 𝚊𝚗𝚍 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 @[𝙼𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝 𝚁𝚎𝚜𝚎𝚊𝚛𝚌𝚑, 𝙸𝚗𝚍𝚒𝚊](𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚖𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝.𝚌𝚘𝚖/𝚎𝚗-𝚞𝚜/𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑/𝚕𝚊𝚋/𝚖𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝-𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑-𝚒𝚗𝚍𝚒𝚊/)
-- 🌱 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 ... ♾️
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝙸 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚋𝚎𝚊𝚝𝚋𝚘𝚡 & 𝚙𝚕𝚊𝚢 𝚋𝚊𝚜𝚔𝚎𝚝𝚋𝚊𝚕𝚕.
+<p align="center">
+  🔭 𝚁𝚎𝚜𝚎𝚊𝚛𝚌𝚑 𝚒𝚗 𝙽𝙻𝙿, 𝙼𝙻, 𝚊𝚗𝚍 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 @ <a href="𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚖𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝.𝚌𝚘𝚖/𝚎𝚗-𝚞𝚜/𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑/𝚕𝚊𝚋/𝚖𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝-𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑-𝚒𝚗𝚍𝚒𝚊/">𝙼𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝 𝚁𝚎𝚜𝚎𝚊𝚛𝚌𝚑, 𝙸𝚗𝚍𝚒𝚊</a>
+</p>
 
 ### Research Interests 
 `Knowledge Representation` | `Information Extraction` | `NLProc` | `Machine Learning` | `Software Engineering`

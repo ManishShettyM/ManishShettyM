@@ -11,6 +11,6 @@
 </p>
 <p align="center">
 <!--   <code>Knowledge Representation</code> | <code>Information Extraction</code>| <code>NLProc</code> | <code>Machine Learning</code> | <code>Software Engineering</code> -->
-  ![[Knowledge Representation| ]](https://img.shields.io/badge/Knowledge%20Representation-%20-brightgreen)
+  ![Knowledge Representation](https://img.shields.io/badge/Knowledge%20Representation-%20-brightgreen)
   
 </p>

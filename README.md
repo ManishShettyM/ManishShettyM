@@ -9,12 +9,11 @@
 <p align="center">
   🔭 𝚁𝚎𝚜𝚎𝚊𝚛𝚌𝚑 𝚒𝚗 𝙽𝙻𝙿, 𝙼𝙻, 𝚊𝚗𝚍 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 @ <a href="𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚖𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝.𝚌𝚘𝚖/𝚎𝚗-𝚞𝚜/𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑/𝚕𝚊𝚋/𝚖𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝-𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑-𝚒𝚗𝚍𝚒𝚊/">𝙼𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝 𝚁𝚎𝚜𝚎𝚊𝚛𝚌𝚑, 𝙸𝚗𝚍𝚒𝚊</a>
 </p>
-<!-- <p align="center"> -->
+<p align="center">
 <!--   <code>Knowledge Representation</code> | <code>Information Extraction</code>| <code>NLProc</code> | <code>Machine Learning</code> | <code>Software Engineering</code> -->  
-<!-- </p>  -->
-
-![Knowledge Representation](https://img.shields.io/badge/Knowledge%20Representation%20-brightgreen)
-![Information Extraction](https://img.shields.io/badge/Information%20Extraction%20-blueviolet)
-![NLProc](https://img.shields.io/badge/NLProc%20-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20-orange)
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering%20-9cf)
+  <img src="https://img.shields.io/badge/Knowledge%20Representation%20-brightgreen"/>
+  <img src="https://img.shields.io/badge/Information%20Extraction%20-blueviolet"/>
+  <img src="https://img.shields.io/badge/NLProc%20-blue"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning%20-orange"/>
+  <img src="https://img.shields.io/badge/Software%20Engineering%20-9cf"/>
+</p>

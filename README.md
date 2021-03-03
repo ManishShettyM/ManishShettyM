@@ -11,6 +11,10 @@
 </p>
 <!-- <p align="center"> -->
 <!--   <code>Knowledge Representation</code> | <code>Information Extraction</code>| <code>NLProc</code> | <code>Machine Learning</code> | <code>Software Engineering</code> -->  
-</p>
+<!-- </p>  -->
 
-![Knowledge Representation](https://img.shields.io/badge/Knowledge%20Representation-%20-brightgreen)
+![Knowledge Representation](https://img.shields.io/badge/Knowledge%20Representation%20-brightgreen)
+![Information Extraction](https://img.shields.io/badge/Information%20Extraction%20-blueviolet)
+![NLProc](https://img.shields.io/badge/NLProc%20-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20-orange)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering%20-9cf)
